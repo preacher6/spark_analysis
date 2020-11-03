@@ -1,2 +1,1 @@
-# spark_analysis
-Manejo de grandes volumenes con Spark
+# Manejo de grandes volumenes de datos con Spark
